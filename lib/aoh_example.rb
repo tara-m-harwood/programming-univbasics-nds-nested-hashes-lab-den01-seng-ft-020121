@@ -34,4 +34,5 @@ def aoh_update(aoh, row, key, new_value)
   puts new_value
 end
 
-
+  assembled = [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
+  aoh_update(aoh, row, key, new_value)
