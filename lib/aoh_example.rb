@@ -34,5 +34,3 @@ def aoh_update(aoh, row, key, new_value)
   aoh
 end
 
-  assembled = [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
-  aoh_update(assembled, 1, :name, "testing 123")
